@@ -1,1 +1,1 @@
-# zola-page
+# Specta Zola Partnership Interest Page
