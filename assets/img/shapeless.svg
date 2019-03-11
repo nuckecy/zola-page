@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1297px" height="539px" viewBox="0 0 1297 539" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Path 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="48.0499276%" x2="95.8644898%" y2="48.0499276%" id="linearGradient-1">
+            <stop stop-color="#00144D" offset="0%"></stop>
+            <stop stop-color="#0375BD" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Zola" transform="translate(-63.000000, -148.000000)" fill="url(#linearGradient-1)">
+            <polygon id="Path-2" points="63 148 1360 363.601681 816.437921 687 63 687"></polygon>
+        </g>
+    </g>
+</svg>
